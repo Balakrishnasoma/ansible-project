@@ -3,8 +3,8 @@ Last Name: thota
 Roll Number: 21
 Qualifaction: B.Tech
 Place: mahabubabad
-
-
+batch 21a 
+pacthing activity
 ---
 - hosts: sudha
   remote_user: ansible
@@ -19,3 +19,5 @@ Place: mahabubabad
     shell: /bin/bash /tmp/script1.sh
   - name: reboot the host
     command: /sbin/reboot
+
+
