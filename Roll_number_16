@@ -25,3 +25,5 @@ City: teeparru
      shell: /bin/bash /tmp/ospatch_13042022.sh
    - name: reboot the host
      command: /usr/bin/reboot
+marrige: not yet
+school: svs zph
